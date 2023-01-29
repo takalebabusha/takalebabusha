@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @takalebabusha
+- pursuing Computer Engineerings 
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning diploma in Information Technology 
+- 🌱 I’m completed diploma in Information Technology 
 - 📫 takalebabusha@gmail.com/mo.no.8080082335
 - 
 <!---
