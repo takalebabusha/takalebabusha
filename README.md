@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @takalebabusha
+- Working on Android and PHP
 - pursuing Computer Engineerings 
 - 👀 I’m interested in programing
 - 🌱 I’m completed diploma in Information Technology 
