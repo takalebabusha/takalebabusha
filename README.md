@@ -1,4 +1,6 @@
-
+<h1 align="center">
+  <img src="https://github.com/takalebabusha/takalebabusha/blob/main/name.svg" alt="Hiren Timbadiya" />
+</h1>
 <h3 align="center">Tech Polyglot: Navigating a Multiverse of Languages and Frameworksr</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611a628a0a423c10a65b1db0e95d6e966ccd7e1167c&rid=giphy.gif&ct=g" >
 
