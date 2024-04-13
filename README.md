@@ -34,6 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=takalebabusha&show_icons=true&locale=en" alt="takalebabusha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andurkaromkar&" alt="takalebabusha" /></p>
-
-
-![snake gif](https://github.com/takalebabusha/takalebabusha/blob/output/github-contribution-grid-snake.gif)
