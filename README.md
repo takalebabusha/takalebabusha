@@ -33,4 +33,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=takalebabusha&show_icons=true&locale=en" alt="takalebabusha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andurkaromkar&" alt="takalebabusha" /></p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=takalebabusha&theme=dark)](https://git.io/streak-stats)
