@@ -1,3 +1,25 @@
+Skip to content
+takalebabusha
+/
+takalebabusha
+
+Type / to search
+
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Generate Snake
+Generate Snake #5
+Jobs
+Run details
+Workflow file for this run
+.github/workflows/main.yml at 1f27269
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
 name: Generate Snake
@@ -54,3 +76,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+Create main.yml · takalebabusha/takalebabusha@1f27269
